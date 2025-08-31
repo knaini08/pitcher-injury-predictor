@@ -1,0 +1,26 @@
+pitcher,injury_actual,injury_prob,injury_pred,model,threshold,rank,full_name
+502171,0,0.22294348,1,xgboost_enhanced_fitnow,0.0066650183871388,1,Alex Cobb
+681911,0,0.14946695,1,xgboost_enhanced_fitnow,0.0066650183871388,2,Alex Vesia
+686294,0,0.11879038,1,xgboost_enhanced_fitnow,0.0066650183871388,3,Amos Willingham
+687396,0,0.11784234,1,xgboost_enhanced_fitnow,0.0066650183871388,4,Brent Headrick
+641540,0,0.10829235,1,xgboost_enhanced_fitnow,0.0066650183871388,5,Dane Dunning
+622072,0,0.095002495,1,xgboost_enhanced_fitnow,0.0066650183871388,6,Alex Wood
+682989,0,0.08511373,1,xgboost_enhanced_fitnow,0.0066650183871388,7,Victor Mederos
+471911,0,0.07666012,1,xgboost_enhanced_fitnow,0.0066650183871388,8,Carlos Carrasco
+571510,0,0.07535918,1,xgboost_enhanced_fitnow,0.0066650183871388,9,Matt Boyd
+641329,0,0.0644988,1,xgboost_enhanced_fitnow,0.0066650183871388,10,Bryan Baker
+677020,0,0.060491633,1,xgboost_enhanced_fitnow,0.0066650183871388,11,Josh Walker
+665152,0,0.059245218,1,xgboost_enhanced_fitnow,0.0066650183871388,12,Dean Kremer
+657272,0,0.059183937,1,xgboost_enhanced_fitnow,0.0066650183871388,13,Erich Uelmen
+693433,0,0.05881247,1,xgboost_enhanced_fitnow,0.0066650183871388,14,Bryan Woo
+676831,0,0.05444108,1,xgboost_enhanced_fitnow,0.0066650183871388,15,Kodi Whitley
+656849,0,0.053595103,1,xgboost_enhanced_fitnow,0.0066650183871388,16,David Peterson
+676265,0,0.047842834,1,xgboost_enhanced_fitnow,0.0066650183871388,17,Cory Abbott
+669721,1,0.04781445,1,xgboost_enhanced_fitnow,0.0066650183871388,18,Davis Daniel
+595928,0,0.044211723,1,xgboost_enhanced_fitnow,0.0066650183871388,19,John Curtiss
+592717,0,0.039682444,1,xgboost_enhanced_fitnow,0.0066650183871388,20,Aaron Sanchez
+628317,0,0.0377569,1,xgboost_enhanced_fitnow,0.0066650183871388,21,Kenta Maeda
+657756,0,0.03712256,1,xgboost_enhanced_fitnow,0.0066650183871388,22,Connor Seabold
+681154,0,0.037107803,1,xgboost_enhanced_fitnow,0.0066650183871388,23,
+656061,0,0.034471195,1,xgboost_enhanced_fitnow,0.0066650183871388,24,Albert Abreu
+677944,0,0.033535875,1,xgboost_enhanced_fitnow,0.0066650183871388,25,Slade Cecconi

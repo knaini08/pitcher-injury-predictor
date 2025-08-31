@@ -1,0 +1,1 @@
+Built MLB pitcher-injury model (Statcast+FanGraphs); engineered workload/velo-delta features; best ROC-AUC 0.668 on 2023 holdout.
