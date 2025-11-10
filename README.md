@@ -25,7 +25,7 @@ The goal was to explore whether changes in workload, pitch mix, and velocity cou
 ## Tools & Libraries
 - Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
 - Jupyter Notebook
-- Data sources: [Statcast](https://baseballsavant.mlb.com/statcast_search), [FanGraphs]([https://www.fangraphs.com/](https://www.fangraphs.com/roster-resource/injury-report?groupby=team&timeframe=all&season=2023))
+- Data sources: [Statcast](https://baseballsavant.mlb.com/statcast_search), [FanGraphs](https://www.fangraphs.com/](https://www.fangraphs.com/roster-resource/injury-report?groupby=team&timeframe=all&season=2023))
 
 ## How to Use
 1. Clone the repository.
